@@ -31,6 +31,10 @@
     <objects name="buttons">
       <object>objects\obj_btn_test</object>
     </objects>
+    <objects name="Textures">
+      <object>objects\obj_blockGrass</object>
+      <object>objects\obj_cblockMountain</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
