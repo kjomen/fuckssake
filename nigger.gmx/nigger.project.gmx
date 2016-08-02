@@ -9,10 +9,12 @@
     <sprites name="mobs">
       <sprite>sprites\sprite_grunt1</sprite>
     </sprites>
+    <sprites name="buttons">
+      <sprite>sprites\spr_btn_test</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
-    <background>background\background0</background>
-    <background>background\background1</background>
+    <background>background\bg_overlay_reference</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -21,6 +23,9 @@
     </objects>
     <objects name="Misc">
       <object>objects\obj_control</object>
+    </objects>
+    <objects name="buttons">
+      <object>objects\obj_btn_test</object>
     </objects>
   </objects>
   <rooms name="rooms">
