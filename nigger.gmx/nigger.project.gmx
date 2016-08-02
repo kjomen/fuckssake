@@ -7,15 +7,16 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprites name="mobs">
-      <sprite>sprites\sprite_grunt1</sprite>
+      <sprite>sprites\spr_grunt1</sprite>
     </sprites>
     <sprites name="buttons">
       <sprite>sprites\spr_btn_test</sprite>
     </sprites>
+    <sprites name="blocks">
+      <sprite>sprites\spr_blockGrass</sprite>
+    </sprites>
   </sprites>
-  <backgrounds name="background">
-    <background>background\bg_overlay_reference</background>
-  </backgrounds>
+  <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <objects name="mobs">
