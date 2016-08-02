@@ -1,0 +1,37 @@
+
+Get started!
+
+Dette spillet er et hold out mot waves av fiendtlige skapninger som kommer fra skogen i grupper.
+Det kommer til og bli vanskligere og vanskligere. Vi skal prøve og optimalisere dette på en eller annen måte.
+Du kommer til og ha 3 porter der fiendene kan komme inn. det kommer til å finnes folk som slår og skyter med diverse våpen.
+Dette spillet pågår under 1300-1500 tallet. så det er mest sansynlig ikke noen rifler eller pistoler av den slags.
+
+
+
+
+Hovedbyggning = Castle.
+Unit bar nedre layout, Baracks for pynt basicly
+Kjøp soldater som kan beskytte deh Castle.
+Hovedbyggningen har 3 liv. Ikke la mere en 2 units hit byggningen din, får da restarter spillet. (Standby, Decision still in conditioning)
+Wave System, Enemies vil komme i waves på alt fra få til mange, det varierer masse. Det vil også være en eller to boss levels. (Boss levels is not affirmative yet.)
+
+
+
+
+
+
+Rules:
+
+Hvis fiendene når castle= Lost.
+Klare alle waves= Vinn  
+
+
+
+
+
+
+
+Penge:
+
+Pengesystem= Bounty på kill av hver fiende og hver overlevende soldat etter hver runde.
+
