@@ -6,15 +6,27 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+<<<<<<< HEAD
     <sprite>sprites\sprite_grunt1</sprite>
     <sprite>sprites\sprite_blockGrass</sprite>
+=======
+    <sprites name="mobs">
+      <sprite>sprites\sprite_grunt1</sprite>
+    </sprites>
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
+    <background>background\background1</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\grunt1</object>
+    <objects name="mobs">
+      <object>objects\grunt1</object>
+    </objects>
+    <objects name="Misc">
+      <object>objects\obj_control</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
