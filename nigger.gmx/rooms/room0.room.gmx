@@ -16,8 +16,8 @@
   <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
     <isSet>-1</isSet>
-    <w>1936</w>
-    <h>1056</h>
+    <w>1928</w>
+    <h>1053</h>
     <showGrid>0</showGrid>
     <showObjects>-1</showObjects>
     <showTiles>-1</showTiles>
@@ -26,7 +26,7 @@
     <showViews>0</showViews>
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
     <deleteUnderlyingTiles>-1</deleteUnderlyingTiles>
-    <page>3</page>
+    <page>0</page>
     <xoffset>-169</xoffset>
     <yoffset>-56</yoffset>
   </makerSettings>
@@ -60,6 +60,7 @@
     <instance objName="obj_btn_test" x="1728" y="1016" name="inst_D9636B95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_btn_test" x="1728" y="952" name="inst_7789E9B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_btn_test" x="1728" y="888" name="inst_7F1B38EE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_control" x="-32" y="0" name="inst_98E21B87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

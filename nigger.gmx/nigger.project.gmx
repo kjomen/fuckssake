@@ -18,11 +18,18 @@
     <sprites name="blocks /w colliders">
       <sprite>sprites\spr_cblockMountain</sprite>
     </sprites>
+    <sprites name="Menu Sprites">
+      <sprite>sprites\spr_top_ui</sprite>
+      <sprite>sprites\spr_bot_ui</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\background_blockGrass</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\fnt_gold</font>
+  </fonts>
   <objects name="objects">
     <objects name="mobs">
       <object>objects\grunt1</object>
