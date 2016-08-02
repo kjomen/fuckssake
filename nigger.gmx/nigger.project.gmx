@@ -19,7 +19,9 @@
       <sprite>sprites\spr_cblockMountain</sprite>
     </sprites>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background_blockGrass</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <objects name="mobs">
