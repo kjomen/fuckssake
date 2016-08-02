@@ -34,7 +34,6 @@
       <object>objects\obj_btn_test</object>
     </objects>
     <objects name="Textures">
-      <object>objects\obj_blockGrass</object>
       <object>objects\obj_cblockMountain</object>
     </objects>
   </objects>
